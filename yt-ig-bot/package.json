@@ -1,0 +1,14 @@
+{
+  "name": "telegram-downloader-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "telegraf": "^4.12.2",
+    "cron": "^3.1.0",
+    "fs-extra": "^11.2.0"
+  },
+  "type": "module"
+}
+
